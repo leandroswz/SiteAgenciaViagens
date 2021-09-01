@@ -1,0 +1,121 @@
+body {
+    width: 95%;
+    max-width: 800px;
+    margin:auto;
+    background: url(img/logo.jpg) center;
+    background-size: cover;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.5;
+    color:rgb(46, 47, 48);
+}
+p {
+    color:white;
+}
+main{
+    background: rgba(245, 244, 244, 0.253);
+    border-radius: 10px;
+    padding: 5px 40px;
+    margin-top: 20px;
+}
+.band-name, .headline{
+    text-align: center;
+    margin: 0;    
+}
+.logo1{
+    text-align: justify;
+    text-align: justify;
+    margin-top: -145px;
+    margin-left: -298px;
+    border: none;
+
+}
+.agenda{
+    margin: 30px 0;
+    text-align: center;
+    width: 100%;
+}
+
+.agenda table{
+    background: rgba(6, 126, 156, 0.575);
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0 auto;
+}
+footer {
+    color: white;
+}
+.j1{
+    text-align: center;
+}
+.nav {
+    height: 82px;
+    margin-left: -23px;
+    border-radius: 10px;
+}
+ul {
+    width: 800px;
+    height: 50px;
+    list-style: none;
+    background: rgba(0,0,0,0.2);
+}
+li {
+    margin-top: 26px;
+    display: inline-block;
+}
+li a {
+    text-decoration: none;
+    color:#fff;
+    text-transform: uppercase;
+    font-weight: lighter;
+    font-size: 24px;
+    transition: 1s;
+    padding: 25px 30px;
+}
+li a:hover{
+    transition: 1s;
+    color:black;
+    background: rgba(255,255,255,0.7);
+}
+img{
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-top: 13px;
+}
+h6 {
+    font-size: 20px;
+    margin: 1px;
+    color: rgb(4, 130, 248);
+    padding-top: 1px;
+    margin-top: -132px;
+    font-family: sans-serif;
+}
+.formulario {
+    margin-left: 834px;
+    text-align: center;
+    margin-top: 90px;
+    padding-top: 9px;
+    
+}
+label {
+    background-color: rgba(216, 211, 211, 0.5);
+    
+}
+button{
+    border-radius: 10px;
+}
+.fotocima{
+    border: 1px solid black;
+    margin-top: -69px;
+}
+.fotobaixo {
+    margin: 4px;
+}
+.rodape{
+    border:none;
+    
+}
+
+
+
